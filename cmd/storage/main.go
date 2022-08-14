@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/moltenpl85/storage/internal/storage"
+	"github.com/moltenpl85/storage/v2/internal/storage"
 )
 
 func main() {

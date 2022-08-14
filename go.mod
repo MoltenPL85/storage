@@ -1,4 +1,4 @@
-module github.com/moltenpl85/storage
+module github.com/moltenpl85/storage/v2
 
 go 1.19
 

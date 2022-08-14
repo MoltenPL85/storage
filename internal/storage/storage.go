@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/moltenpl85/storage/internal/file"
+	"github.com/moltenpl85/storage/v2/internal/file"
 )
 
 type Storage struct {
